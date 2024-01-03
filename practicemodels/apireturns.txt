@@ -1,0 +1,179 @@
+{
+  "prediction": {
+    "predictions": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "scoring": {
+    "f1_score": "F1 Score: 0.5714285714285715 - Latest score saved to practicemodels/latestscore.txt"
+  },
+  "summarystats": {
+    "50%": {
+      "exited": 1.0,
+      "lastmonth_activity": 73.0,
+      "lastyear_activity": 955.0,
+      "number_of_employees": 14.0
+    },
+    "mean": {
+      "exited": 0.5769230769230769,
+      "lastmonth_activity": 165.65384615384616,
+      "lastyear_activity": 1502.923076923077,
+      "number_of_employees": 26.884615384615383
+    },
+    "std": {
+      "exited": 0.5038314736557788,
+      "lastmonth_activity": 284.0332293669446,
+      "lastyear_activity": 2192.64495845683,
+      "number_of_employees": 31.35388578543581
+    }
+  },
+  "diagnostics": {
+    "execution_time": [
+      0.2952571350033395,
+      0.6044369650044246
+    ],
+    "missing_data_percentage": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "outdated_dependencies": [
+      {
+        "Installed Version": "7.1.2",
+        "Latest Version": "8.1.7",
+        "Package": "click"
+      },
+      {
+        "Installed Version": "0.10.0",
+        "Latest Version": "0.12.1",
+        "Package": "cycler"
+      },
+      {
+        "Installed Version": "1.1.2",
+        "Latest Version": "3.0.0",
+        "Package": "Flask"
+      },
+      {
+        "Installed Version": "20.0.4",
+        "Latest Version": "21.2.0",
+        "Package": "gunicorn"
+      },
+      {
+        "Installed Version": "1.1.0",
+        "Latest Version": "2.1.2",
+        "Package": "itsdangerous"
+      },
+      {
+        "Installed Version": "2.11.3",
+        "Latest Version": "3.1.2",
+        "Package": "Jinja2"
+      },
+      {
+        "Installed Version": "1.0.1",
+        "Latest Version": "1.3.2",
+        "Package": "joblib"
+      },
+      {
+        "Installed Version": "1.3.1",
+        "Latest Version": "1.4.5",
+        "Package": "kiwisolver"
+      },
+      {
+        "Installed Version": "1.1.1",
+        "Latest Version": "2.1.3",
+        "Package": "MarkupSafe"
+      },
+      {
+        "Installed Version": "3.3.4",
+        "Latest Version": "3.7.4",
+        "Package": "matplotlib"
+      },
+      {
+        "Installed Version": "1.20.1",
+        "Latest Version": "1.24.4",
+        "Package": "numpy"
+      },
+      {
+        "Installed Version": "1.2.2",
+        "Latest Version": "2.0.3",
+        "Package": "pandas"
+      },
+      {
+        "Installed Version": "8.1.0",
+        "Latest Version": "10.2.0",
+        "Package": "Pillow"
+      },
+      {
+        "Installed Version": "23.3.1",
+        "Latest Version": "23.3.2",
+        "Package": "pip"
+      },
+      {
+        "Installed Version": "2.4.7",
+        "Latest Version": "3.1.1",
+        "Package": "pyparsing"
+      },
+      {
+        "Installed Version": "2.8.1",
+        "Latest Version": "2.8.2",
+        "Package": "python-dateutil"
+      },
+      {
+        "Installed Version": "2021.1",
+        "Latest Version": "2023.3.post1",
+        "Package": "pytz"
+      },
+      {
+        "Installed Version": "0.24.1",
+        "Latest Version": "1.3.2",
+        "Package": "scikit-learn"
+      },
+      {
+        "Installed Version": "1.6.1",
+        "Latest Version": "1.10.1",
+        "Package": "scipy"
+      },
+      {
+        "Installed Version": "0.11.1",
+        "Latest Version": "0.13.1",
+        "Package": "seaborn"
+      },
+      {
+        "Installed Version": "68.2.2",
+        "Latest Version": "69.0.3",
+        "Package": "setuptools"
+      },
+      {
+        "Installed Version": "1.15.0",
+        "Latest Version": "1.16.0",
+        "Package": "six"
+      },
+      {
+        "Installed Version": "0.0",
+        "Latest Version": "0.0.post12",
+        "Package": "sklearn"
+      },
+      {
+        "Installed Version": "2.1.0",
+        "Latest Version": "3.2.0",
+        "Package": "threadpoolctl"
+      },
+      {
+        "Installed Version": "1.0.1",
+        "Latest Version": "3.0.1",
+        "Package": "Werkzeug"
+      },
+      {
+        "Installed Version": "0.41.2",
+        "Latest Version": "0.42.0",
+        "Package": "wheel"
+      }
+    ]
+  }
+}
