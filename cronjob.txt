@@ -1,0 +1,1 @@
+*/10 * * * * ~/anaconda3/envs/dynamic_risk_assess/bin/python ~/learn/mlops-udacity/project-3/dynamic-risk-assessment-system/fullprocess.py >> ~/learn/mlops-udacity/project-3/dynamic-risk-assessment-system/cron.log 2>&1
